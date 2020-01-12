@@ -15,4 +15,4 @@ This is Android Application showing the Bottom Bars.
 
 >> 4th
 
-<img src="/Shot/s3.png">
+<img src="/Shot/s4.png">
