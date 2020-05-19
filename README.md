@@ -7,15 +7,15 @@ This is Android Application showing the Bottom Bars.
 
 2nd
 
-<img src="/Shot/s2.png" hieght="100%" width="40%>
+<img src="/Shot/s2.png" hieght="100%" width="40%">
 
 3rd
 
-<img src="/Shot/s3.png" hieght="100%" width="40%>
+<img src="/Shot/s3.png" hieght="100%" width="40%">
 
 4th
 
-<img src="/Shot/s4.png" hieght="100%" width="40%>
+<img src="/Shot/s4.png" hieght="100%" width="40%">
 
 ## Website: https://sumitnce1.github.io
 ## Follow us:- Search Google: sumitnce1
