@@ -11,7 +11,7 @@ This is Android Application showing the Bottom Bars.
 
 3rd
 
-<img src="/Shot/s3.png">
+<img src="/Shot/s3.png" hieght="100%" width="40%>
 
 4th
 
