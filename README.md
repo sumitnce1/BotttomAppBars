@@ -15,7 +15,7 @@ This is Android Application showing the Bottom Bars.
 
 4th
 
-<img src="/Shot/s4.png">
+<img src="/Shot/s4.png" hieght="100%" width="40%>
 
 ## Website: https://sumitnce1.github.io
 ## Follow us:- Search Google: sumitnce1
