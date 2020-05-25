@@ -7,7 +7,7 @@ This is Android Application showing the Bottom Bars.
 
 2nd
 
-<img src="/Shot/s2.png" hieght="100%" width="40%">
+<img src="/Shot/s2.png" hieght="100%" width="45%">
 
 3rd
 
