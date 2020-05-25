@@ -10,8 +10,7 @@ This is Android Application showing the Bottom Bars.
 <img src="/Shot/s2.png" hieght="100%" width="45%">
 
 3rd
-
-<img src="/Shot/s3.png" hieght="100%" width="40%">
+<img src="/Shot/s3.png" hieght="100%" width="45%">
 
 4th
 
